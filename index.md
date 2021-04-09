@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Nicholas Chaung's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Nicholas Chaung
+Data Engineer with consulting and leadership experience. Submarine force veteran.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="nick@spiraldatascience.com">nick@spiraldatascience.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
