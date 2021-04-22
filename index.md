@@ -43,13 +43,13 @@ Nuclear Engineer Officer, U.S. Department of Energy/Naval Reactors
 
 ## Skills
 
-Python: numpy, pandas, SQLAlchemy, psycopg2, requests, elasticsearch
+Python: numpy, pandas, SQLAlchemy, psycopg2, requests, elasticsearch, cryptography
 
 Cloud (AWS): EC2, RDS, Aurora, S3, Diode, VPCs, load balancing
 
 Database: PostgreSQL
 
-Linux: git, bash, anaconda, docker
+Linux: git, bash, ssh, anaconda, docker
 
 Familiar with Agile development
 
