@@ -3,11 +3,11 @@ layout: cv
 title: Nicholas Chaung's CV
 ---
 # Nicholas Chaung
-Data Engineer with consulting and leadership experience. Submarine force veteran.
+Data Engineer with consulting and leadership experience. Experienced in building and maintaining data flows for a variety of cross-domain analytics platforms. U.S. Navy Submarine Force veteran.
 
 <div id="webaddress">
-<a href="nick@spiraldatascience.com">nick@spiraldatascience.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="tech@chaung.net">tech@chaung.net</a>
+| <a href="https://www.linkedin.com/in/nicholaschaung/">LinkedIn</a>
 </div>
 
 
@@ -27,8 +27,8 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2012`
+__B.S. Mathematics, George Mason University__
 
 `June 1661 - now`
 __Trinity College, Cambridge__
