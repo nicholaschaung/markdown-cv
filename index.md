@@ -18,13 +18,10 @@ Enabling data scientists/analysts by building performant data pipelines.
 
 ## Education
 
-`2012`
-__B.S. Mathematics, George Mason University__
+`2019 - 2023 (projected)`
+__M.S. Computer Science, Georgia Institute of Technology__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
+- Courses: Knowledge-Based Artificial Intelligence (AI), Applied Cryptography, Robotics: AI Techniques
 
 `2012`
 __B.S. Mathematics, George Mason University__
@@ -34,12 +31,13 @@ __B.S. Mathematics, George Mason University__
 
 
 
-## Awards
+## Certifications
 
-`2012`
-President, *Royal Society*, London, UK
+`May 2020`
+Amazon Web Services (AWS) Certified Solutions Architect - Associate, AWS
 
-Associate, *French Academy of Science*, Paris, France
+`Nov 2016`
+Nuclear Engineer Officer, U.S. Department of Energy/Naval Reactors
 
 
 
