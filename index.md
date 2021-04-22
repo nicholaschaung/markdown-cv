@@ -11,18 +11,9 @@ Data Engineer with consulting and leadership experience. Experienced in building
 </div>
 
 
-## Currently
+## Interested in
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Enabling data scientists/analysts by building performant data pipelines.
 
 
 ## Education
@@ -35,10 +26,11 @@ __Trinity College, Cambridge__
 
 - Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2012`
+__B.S. Mathematics, George Mason University__
 
-- Fellow
+- National Science Foundation (NSF) Computational Science Training for Undergraduates in the Mathematical Sciences (CSUMS) Research Grant
+- NSF CSUMS research grant topic: Effects of Non-Independent Behavior on a Macroeconomic Model; <a href="http://tinyurl.com/herding-inflation">http://tinyurl.com/herding-inflation</a>
 
 
 
