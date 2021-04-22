@@ -81,8 +81,9 @@ __Data Analyst Consultant, Custom Analysis LLC, Springfield, VA__
 - Ensured agency promotions complied with EEOC guidelines by conducting adverse impact statistical analysis in R
 - Saved over 200 man-hours per year by automating monthly cleaning of agency demographics data using Python
 
-`Sep 2014 - Sep 2017`
+`Sep 2012 - Sep 2017`
 __U.S. Navy Nuclear Submarine Officer, USS Asheville (SSN 758), Pearl Harbor, HI__
+
 Senior Engineering Supervisor
 - Selected from among the most experienced division officers to plan and coordinate efforts of over 50 personnel to complete major project milestones; e.g., integrated high-pressure steam testing of overhauled mechanical systems, reactor instrumentation factory acceptance testing, and control rod physics testing
 - Acted as the focal point for technical communication with regulatory agencies and with design engineers
@@ -96,6 +97,13 @@ Reactor Control Officer
 - Awarded Junior Officer of the Year 2016, ranked 1 of 12 peers, in recognition of exceptional leadership of Reactor Control division and Engineering department personnel, fastidious management of the maintenance quality control program, and demonstrated resilience during extended periods of short-staffing during overhaul
 - Supervised the complete overhaul of the reactor instrumentation complex; part of an entire ship overhaul with a project cost of over $500 million
 - The successful upgrade of the reactor instrumentation complex directly contributed to Asheville being awarded the Submarine Squadron Seven Engineering Department of the Year 2016; 1 of 11 Engineering Departments
+
+Submarine Officer and Nuclear Power Plant Operator Trainee
+- Certified by the Department of Energy/Naval Reactors to supervise critical reactor operations
+- Completed courses in nuclear physics, reactor design fundamentals, material selection, thermodynamics, chemical processes, integrated systems operations, and electric motor/generator theory and applications
+
+Officer Recruiter
+- Assisted Nuclear Officer recruiter in marketing to top engineering schools in the Washington, D.C. metro area
 
 <!-- ### Footer
 
