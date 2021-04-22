@@ -41,24 +41,19 @@ Nuclear Engineer Officer, U.S. Department of Energy/Naval Reactors
 
 
 
-## Publications
+## Computing skill sets
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Python: numpy, pandas, SQLAlchemy, psycopg2, requests, elasticsearch
+Cloud (AWS): EC2, RDS, Aurora, S3, Diode, VPCs, load balancing
+Database: PostgreSQL
+Linux: git, bash, anaconda, docker
+Familiar with Agile development
+Others: R, Apache NiFi, salt-stack, Elasticsearch
 
 `1669`
 Lectiones opticæ.
 
 etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
