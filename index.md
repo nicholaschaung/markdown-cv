@@ -50,7 +50,7 @@ __Senior Data Engineering Consultant, LMI Inc.__, Arlington, VA
 `Jan 2019 - Dec 2020`
 __Data Scientist, Quadrint Inc.__, Springfield, VA
 
-- During COVID-19 remote work period, sustained mission continuity by developing and deploying an unclassified data science environment; deployed and maintained Jupyter Notebooks and PostgreSQL servers on AWS EC2 and Aurora instances
+- During COVID-19 remote work period, sustained mission continuity by developing and deploying an unclassified data science environment; deployed and maintained Jupyter Notebooks server on AWS EC2 with databases on Aurora instances
 - Advised clients on optimal cloud architectures for data science environments
 - Developed various data processing pipelines, utilizing Python and PostgreSQL, that ensured continuity of mission-essential data sets to agency leadership
 - Developed Python scripts to transform unstructured data from mission-essential and mission-support databases into structured data
