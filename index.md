@@ -15,7 +15,7 @@ Data Engineer with five years of leadership experience and more than three years
 
 Enabling data scientists/analysts by building performant data pipelines.
 
-Transitioning from U.S. to Singapore long-term.
+Transitioning from the U.S. to Singapore long-term.
 
 
 
