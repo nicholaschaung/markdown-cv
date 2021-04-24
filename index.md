@@ -45,16 +45,16 @@ Amazon Web Services (AWS) Certified Solutions Architect - Associate, AWS
 __Senior Data Engineering Consultant, LMI Inc.__, Arlington, VA
 
 - Built and maintained Apache NiFi data flows that processed real-time, streaming, imagery and sensor data from AWS S3 data sources
-- Maintained data processing EC2/NiFi instances and wrote ad-hoc shell and Python scripts as necessary for processing/maintenance of data flows
+- Maintained data processing EC2/NiFi instances and wrote shell and Python scripts as necessary for data flow processing, maintenance, and optimization
+- Saved the enterprise ~$500/month by optimizing a NiFi/Elasticsearch data flow
 - Part of the Data Team for the multi-domain Global Analytics Platform
 
 `Jan 2019 - Dec 2020`
 __Data Scientist, Quadrint Inc.__, Springfield, VA
 
-- During COVID-19 remote work period, sustained mission continuity by developing and deploying an unclassified data science environment; deployed and maintained Jupyter Notebooks server on AWS EC2 with databases on Aurora instances
+- During COVID-19 remote work period, sustained mission continuity by developing and deploying a new unclassified data science environment; deployed and maintained Jupyter Notebooks server on AWS EC2 with databases on Aurora
 - Advised clients on optimal cloud architectures for data science environments
-- Developed various data processing pipelines, utilizing Python and PostgreSQL, that ensured continuity of mission-essential data sets to agency leadership
-- Developed Python scripts to transform unstructured data from mission-essential and mission-support databases into structured data
+- Developed Python scripts to transform unstructured data to structured data in PostgreSQL, from mission-essential and mission-support databases
 - As a database administrator, facilitated performant analytics by ensuring organization’s data assets (PostgreSQL) were properly indexed and integrated into automated processing workflows
 - Scaled and maintained organization’s cloud assets (AWS EC2 and RDS) and workflows (bash scripts and AWS Lambda functions) as necessary to support fluctuating demand from various data processing pipelines
 
@@ -87,9 +87,9 @@ Reactor Control Officer
 
 Python: numpy, pandas, various SQL connectors, requests, elasticsearch, cryptography, PIL
 
-Cloud (AWS): EC2, RDS, Aurora, S3, Diode, network routing
+Cloud (AWS): EC2, RDS, Aurora, S3, Diode, Lambda, network routing
 
-Database: PostgreSQL
+Databases: PostgreSQL, Aurora
 
 Linux: git, bash, ssh, anaconda, docker
 
