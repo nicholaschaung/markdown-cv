@@ -94,7 +94,7 @@ Cloud (AWS): EC2, RDS, Aurora, S3, Diode, Lambda, network routing
 
 Databases: PostgreSQL, Aurora
 
-Linux: git, bash, ssh, anaconda, docker
+Linux: git, bash, anaconda, docker
 
 Familiar with Agile development
 
