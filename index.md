@@ -7,7 +7,7 @@ Data Engineer with consulting and leadership experience. Experienced in building
 
 <div id="webaddress">
 <a href="tech@chaung.net">tech@chaung.net</a>
-| <a href="https://www.linkedin.com/in/nicholaschaung/">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/nicholaschaung/">https://www.linkedin.com/in/nicholaschaung/</a>
 </div>
 
 
