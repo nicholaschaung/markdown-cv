@@ -64,7 +64,7 @@ __Data Analyst Consultant, Custom Analysis LLC, Springfield, VA__
 - Saved over 200 man-hours per year by automating monthly cleaning of agency demographics data using Python
 
 `Sep 2012 - Sep 2017`
-__U.S. Navy Nuclear Submarine Officer, USS Asheville (SSN 758), Pearl Harbor, HI__
+__Nuclear Submarine Officer, USS Asheville (SSN 758), Pearl Harbor, HI__
 
 Senior Engineering Supervisor
 - Selected from among the most experienced division officers to plan and coordinate efforts of over 50 personnel to complete major project milestones; e.g., integrated high-pressure steam testing of overhauled mechanical systems, reactor instrumentation factory acceptance testing, and control rod physics testing
