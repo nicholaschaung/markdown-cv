@@ -3,7 +3,7 @@ layout: cv
 title: Nicholas Chaung's CV
 ---
 # Nicholas Chaung
-Data Engineer with consulting and leadership experience. Experienced in building and maintaining data flows for a variety of cross-domain analytics platforms. U.S. Navy Submarine Force veteran.
+Data Engineer with consulting and leadership experience. Experienced in building and maintaining data flows for a variety of cross-domain analytics platforms.
 
 <div id="webaddress">
 <a href="tech@chaung.net">tech@chaung.net</a>
