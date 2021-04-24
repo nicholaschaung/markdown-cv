@@ -21,7 +21,7 @@ Enabling data scientists/analysts by building performant data pipelines.
 `2019 - 2023`
 __M.S. Computer Science (projected) , Georgia Institute of Technology__
 
-- Courses: Knowledge-Based Artificial Intelligence (AI), Applied Cryptography, Robotics: AI Techniques
+- Courses completed: Knowledge-Based Artificial Intelligence (AI), Applied Cryptography, Robotics: AI Techniques
 
 `2012`
 __B.S. Mathematics, George Mason University__
@@ -36,24 +36,6 @@ __B.S. Mathematics, George Mason University__
 `May 2020`
 Amazon Web Services (AWS) Certified Solutions Architect - Associate, AWS
 
-`Nov 2016`
-Nuclear Engineer Officer, U.S. Department of Energy/Naval Reactors
-
-
-
-## Skills
-
-Python: numpy, pandas, SQLAlchemy, psycopg2, requests, elasticsearch, cryptography, PIL, scikit-learn
-
-Cloud (AWS): EC2, RDS, Aurora, S3, Diode, VPCs, load balancing
-
-Database: PostgreSQL
-
-Linux: git, bash, ssh, anaconda, docker
-
-Familiar with Agile development
-
-Others: Jupyter Notebooks, R, Apache NiFi, salt-stack, Elasticsearch
 
 
 ## Work experience
@@ -98,15 +80,24 @@ Reactor Control Officer
 - Supervised the complete overhaul of the reactor instrumentation complex; part of an entire ship overhaul with a project cost of over $500 million
 - The successful upgrade of the reactor instrumentation complex directly contributed to Asheville being awarded the Submarine Squadron Seven Engineering Department of the Year 2016; 1 of 11 Engineering Departments
 
-Submarine Officer and Nuclear Power Plant Operator Trainee
-- Certified by the Department of Energy/Naval Reactors to supervise critical reactor operations
-- Completed courses in nuclear physics, reactor design fundamentals, material selection, thermodynamics, chemical processes, integrated systems operations, and electric motor/generator theory and applications
 
-Officer Recruiter
-- Assisted Nuclear Officer recruiter in marketing to top engineering schools in the Washington, D.C. metro area
+
+## Skills
+
+Python: numpy, pandas, various SQL connectors, requests, elasticsearch, cryptography, PIL
+
+Cloud (AWS): EC2, RDS, Aurora, S3, Diode, network routing
+
+Database: PostgreSQL
+
+Linux: git, bash, ssh, anaconda, docker
+
+Familiar with Agile development
+
+Others: Jupyter Notebooks, R, Apache NiFi, salt-stack, Elasticsearch
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2021 -->
 
 
