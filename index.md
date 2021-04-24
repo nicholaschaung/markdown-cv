@@ -18,6 +18,7 @@ Enabling data scientists/analysts by building performant data pipelines.
 Transitioning from U.S. to Singapore long-term.
 
 
+
 ## Education
 
 `2019 - 2023`
