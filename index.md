@@ -3,7 +3,7 @@ layout: cv
 title: Nicholas Chaung's CV
 ---
 # Nicholas Chaung
-Data Engineer with consulting and leadership experience. Experienced in building and maintaining data flows for a variety of cross-domain analytics platforms.
+Data Engineer with five years of leadership experience and more than three years of consulting experience. Experienced in building and maintaining data flows for a variety of cross-domain analytics platforms.
 
 <div id="webaddress">
 <a href="tech@chaung.net">tech@chaung.net</a>
@@ -26,8 +26,9 @@ __M.S. Computer Science (projected) , Georgia Institute of Technology__
 `2012`
 __B.S. Mathematics, George Mason University__
 
-- National Science Foundation (NSF) Computational Science Training for Undergraduates in the Mathematical Sciences (CSUMS) Research Grant
-- NSF CSUMS research grant topic: Effects of Non-Independent Behavior on a Macroeconomic Model; <a href="http://tinyurl.com/herding-inflation">http://tinyurl.com/herding-inflation</a>
+- Awarded the National Science Foundation (NSF) Computational Science Training for Undergraduates in the Mathematical Sciences (CSUMS) Research Grant
+- Research grant topic: Effects of Non-Independent Behavior on a Macroeconomic Model
+- Presented findings at the Joint Mathematics Meetings in Boston, January 2012; <a href="http://jointmathematicsmeetings.org/amsmtgs/2138_abstracts/1077-91-2426.pdf">http://jointmathematicsmeetings.org/amsmtgs/2138_abstracts/1077-91-2426.pdf</a>
 
 
 
