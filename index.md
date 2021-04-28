@@ -3,7 +3,7 @@ layout: cv
 title: Nicholas Chaung's CV
 ---
 # Nicholas Chaung
-Data Engineer with five years of leadership experience and more than three years of consulting experience. Experienced in building and maintaining data flows for a variety of cross-domain analytics platforms.
+Experienced Data Engineer with a proven history of building and maintaining performant data flows for a variety of cross-domain analytics platforms. Also experienced in providing clear insights through concise data visualizations for a variety of management and senior executive clients.
 
 <div id="webaddress">
 <a href="tech@chaung.net">tech@chaung.net</a>
@@ -13,7 +13,7 @@ Data Engineer with five years of leadership experience and more than three years
 
 ## Interested in
 
-Enabling data scientists/analysts by building performant data pipelines.
+Enabling data scientists and analysts by building performant data pipelines.
 
 
 
