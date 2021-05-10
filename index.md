@@ -3,7 +3,7 @@ layout: cv
 title: Nicholas Chaung's CV
 ---
 # Nicholas Chaung
-Experienced Data Engineer with a proven history of building and maintaining performant data flows for a variety of cross-domain analytics platforms. Also experienced in providing clear insights through concise data visualizations for a variety of management and senior executive clients.
+Experienced Data Engineer with a proven history of building and maintaining performant data flows for a variety of cross-domain analytics platforms. Skilled in providing clear insights through concise data visualizations for a variety of management and senior executive clients.
 
 <div id="webaddress">
 <a href="tech@chaung.net">tech@chaung.net</a>
@@ -88,7 +88,7 @@ Reactor Control Officer
 
 Python: numpy, pandas, various SQL connectors, requests, elasticsearch, cryptography, PIL
 
-Cloud (AWS): EC2, RDS, Aurora, S3, Diode, Lambda, network routing
+Cloud (AWS): EC2, RDS, Aurora, S3, Diode, Lambda, VPC architectures
 
 Databases: PostgreSQL, Aurora
 
