@@ -86,7 +86,7 @@ Reactor Control Officer
 
 ## Skills
 
-Python: numpy, pandas, various SQL connectors, requests, elasticsearch, cryptography, PIL
+Python: numpy, pandas, various SQL connectors, requests, PIL
 
 Cloud (AWS): EC2, RDS, Aurora, S3, Diode, Lambda, VPC architectures
 
@@ -96,7 +96,7 @@ Linux: git, bash, anaconda, docker
 
 Familiar with Agile development
 
-Others: Jupyter Notebooks, R, Apache NiFi, salt-stack, Elasticsearch
+Others: Jupyter Notebooks, R, Apache NiFi
 
 
 
