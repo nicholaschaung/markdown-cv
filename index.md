@@ -96,7 +96,7 @@ Linux: git, bash, anaconda, docker
 
 Familiar with Agile development
 
-Others: Jupyter Notebooks, R, Apache NiFi
+Others: Jupyter Notebooks, R, Apache NiFi, Tableau
 
 
 
