@@ -48,6 +48,7 @@ __Senior Data Engineering Consultant, LMI Inc.__, Arlington, VA
 - Built and maintained Apache NiFi data flows that processed real-time, streaming, imagery and sensor data from AWS S3 data sources
 - Maintained data processing EC2/NiFi instances and wrote shell and Python scripts as necessary for data flow processing, maintenance, and optimization
 - Saved the enterprise ~$500/month by optimizing a NiFi/Elasticsearch data flow
+- Deployed NiFi docker application to C2S (government cloud)
 - Part of the Data Team for the multi-domain Global Analytics Platform
 
 `Jan 2019 - Dec 2020`
