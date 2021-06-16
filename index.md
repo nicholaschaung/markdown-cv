@@ -48,7 +48,7 @@ __Senior Data Engineering Consultant, LMI Inc.__, Arlington, VA
 - Built and maintained Apache NiFi data flows that processed real-time, streaming, imagery and sensor data from AWS S3 data sources
 - Maintained data processing EC2/NiFi instances and wrote shell and Python scripts as necessary for data flow processing, maintenance, and optimization
 - Saved the enterprise ~$500/month by optimizing a NiFi/Elasticsearch data flow
-- Deployed NiFi docker application to C2S (government cloud)
+- Deployed NiFi and anti-virus scanning docker applications to AWS and C2S (government cloud)
 - Part of the Data Team for the multi-domain Global Analytics Platform
 
 `Jan 2019 - Dec 2020`
@@ -61,13 +61,13 @@ __Data Scientist, Quadrint Inc.__, Springfield, VA
 - Scaled and maintained organization’s cloud assets (AWS EC2 and RDS) and workflows (bash scripts and AWS Lambda functions) as necessary to support fluctuating demand from various data processing pipelines
 
 `Oct 2017 - Jan 2019`
-__Data Analyst Consultant, Custom Analysis LLC, Springfield, VA__
+__Data Analyst Consultant, Custom Analysis LLC,__ Springfield, VA
 - Co-developed first Tableau demographics dashboard for a federal intelligence agency department
 - Ensured agency promotions complied with EEOC guidelines by conducting adverse impact statistical analysis in R
 - Saved over 200 man-hours per year by automating monthly cleaning of agency demographics data using Python
 
 `Sep 2012 - Sep 2017`
-__Nuclear Submarine Officer, USS Asheville (SSN 758), Pearl Harbor, HI__
+__Nuclear Submarine Officer, USS Asheville (SSN 758),__ Pearl Harbor, HI
 
 Senior Engineering Supervisor
 - Selected from among the most experienced division officers to plan and coordinate efforts of over 50 personnel to complete major project milestones; e.g., integrated high-pressure steam testing of overhauled mechanical systems, reactor instrumentation factory acceptance testing, and control rod physics testing
