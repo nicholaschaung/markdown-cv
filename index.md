@@ -3,17 +3,18 @@ layout: cv
 title: Nicholas Chaung's CV
 ---
 # Nicholas Chaung
-Data Engineer with consulting and leadership experience. Experienced in building and maintaining data flows for a variety of cross-domain analytics platforms. U.S. Navy Submarine Force veteran.
+Experienced Data Engineer with a proven history of building and maintaining performant data flows for a variety of cross-domain analytics platforms. Skilled in providing clear insights through concise data visualizations for a variety of management and senior executive clients.
 
 <div id="webaddress">
 <a href="tech@chaung.net">tech@chaung.net</a>
-| <a href="https://www.linkedin.com/in/nicholaschaung/">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/nicholaschaung/">https://www.linkedin.com/in/nicholaschaung/</a>
 </div>
 
 
 ## Interested in
 
-Enabling data scientists/analysts by building performant data pipelines.
+Enabling data scientists and analysts by building performant data pipelines.
+
 
 
 ## Education
@@ -26,8 +27,9 @@ __M.S. Computer Science (projected) , Georgia Institute of Technology__
 `2012`
 __B.S. Mathematics, George Mason University__
 
-- National Science Foundation (NSF) Computational Science Training for Undergraduates in the Mathematical Sciences (CSUMS) Research Grant
-- NSF CSUMS research grant topic: Effects of Non-Independent Behavior on a Macroeconomic Model; <a href="http://tinyurl.com/herding-inflation">http://tinyurl.com/herding-inflation</a>
+- Awarded the National Science Foundation (NSF) Computational Science Training for Undergraduates in the Mathematical Sciences (CSUMS) Research Grant
+- Research grant topic: Effects of Non-Independent Behavior on a Macroeconomic Model
+- Presented findings at the Joint Mathematics Meetings in Boston, January 2012; <a href="http://jointmathematicsmeetings.org/amsmtgs/2138_abstracts/1077-91-2426.pdf">http://jointmathematicsmeetings.org/amsmtgs/2138_abstracts/1077-91-2426.pdf</a>
 
 
 
@@ -44,16 +46,17 @@ Amazon Web Services (AWS) Certified Solutions Architect - Associate, AWS
 __Senior Data Engineering Consultant, LMI Inc.__, Arlington, VA
 
 - Built and maintained Apache NiFi data flows that processed real-time, streaming, imagery and sensor data from AWS S3 data sources
-- Maintained data processing EC2/NiFi instances and wrote ad-hoc shell and Python scripts as necessary for processing/maintenance of data flows
+- Maintained data processing EC2/NiFi instances and wrote shell and Python scripts as necessary for data flow processing, maintenance, and optimization
+- Saved the enterprise ~$500/month by optimizing a NiFi/Elasticsearch data flow
+- Deployed NiFi docker application to C2S (government cloud)
 - Part of the Data Team for the multi-domain Global Analytics Platform
 
 `Jan 2019 - Dec 2020`
 __Data Scientist, Quadrint Inc.__, Springfield, VA
 
-- During COVID-19 remote work period, sustained mission continuity by developing and deploying an unclassified data science environment; deployed and maintained Jupyter Notebooks and PostgreSQL servers on AWS EC2 and Aurora instances
+- During COVID-19 remote work period, sustained mission continuity by developing and deploying a new unclassified data science environment; deployed and maintained Jupyter Notebooks server on AWS EC2 with databases on Aurora
 - Advised clients on optimal cloud architectures for data science environments
-- Developed various data processing pipelines, utilizing Python and PostgreSQL, that ensured continuity of mission-essential data sets to agency leadership
-- Developed Python scripts to transform unstructured data from mission-essential and mission-support databases into structured data
+- Developed Python scripts to transform unstructured data to structured data in PostgreSQL, from mission-essential and mission-support databases
 - As a database administrator, facilitated performant analytics by ensuring organization’s data assets (PostgreSQL) were properly indexed and integrated into automated processing workflows
 - Scaled and maintained organization’s cloud assets (AWS EC2 and RDS) and workflows (bash scripts and AWS Lambda functions) as necessary to support fluctuating demand from various data processing pipelines
 
@@ -64,7 +67,7 @@ __Data Analyst Consultant, Custom Analysis LLC, Springfield, VA__
 - Saved over 200 man-hours per year by automating monthly cleaning of agency demographics data using Python
 
 `Sep 2012 - Sep 2017`
-__U.S. Navy Nuclear Submarine Officer, USS Asheville (SSN 758), Pearl Harbor, HI__
+__Nuclear Submarine Officer, USS Asheville (SSN 758), Pearl Harbor, HI__
 
 Senior Engineering Supervisor
 - Selected from among the most experienced division officers to plan and coordinate efforts of over 50 personnel to complete major project milestones; e.g., integrated high-pressure steam testing of overhauled mechanical systems, reactor instrumentation factory acceptance testing, and control rod physics testing
@@ -84,17 +87,19 @@ Reactor Control Officer
 
 ## Skills
 
-Python: numpy, pandas, various SQL connectors, requests, elasticsearch, cryptography, PIL
+Python: numpy, pandas, various SQL connectors, requests, PIL
 
-Cloud (AWS): EC2, RDS, Aurora, S3, Diode, network routing
+Cloud (AWS): EC2, RDS, Aurora, S3, Diode, Lambda, VPC architectures
 
-Database: PostgreSQL
+Databases: PostgreSQL, Aurora
 
-Linux: git, bash, ssh, anaconda, docker
+Linux: git, bash, anaconda, docker
 
 Familiar with Agile development
 
-Others: Jupyter Notebooks, R, Apache NiFi, salt-stack, Elasticsearch
+Others: Jupyter Notebooks, R, Apache NiFi, Tableau
+
+
 
 <!-- ### Footer
 
