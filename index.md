@@ -93,11 +93,11 @@ Cloud (AWS): EC2, RDS, Aurora, S3, Diode, Lambda, VPC architectures
 
 Databases: PostgreSQL, Aurora
 
-Linux: git, bash, anaconda, docker
+Linux: bash, cron, anaconda
 
 Familiar with Agile development
 
-Others: Jupyter Notebooks, R, Apache NiFi, Tableau
+Others: git, docker, kubectl, Jupyter Notebooks, R, Apache NiFi, Tableau
 
 
 
