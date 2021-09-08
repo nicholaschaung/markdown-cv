@@ -89,7 +89,7 @@ Reactor Control Officer
 
 Python: numpy, pandas, various SQL connectors, requests, PIL
 
-Cloud (AWS): EC2, S3, RDS, Aurora, S3, Diode, Lambda, VPC architectures
+Cloud (AWS): EC2, S3, RDS, Aurora, Diode, Lambda, VPC architectures
 
 Databases: PostgreSQL, Aurora
 
