@@ -49,7 +49,7 @@ __Senior Data Engineering Consultant, LMI Inc.__, Arlington, VA
 - Deployed NiFi and anti-virus scanning applications to AWS cloud in containerized environments via docker/Kubernetes/Rancher
 - Maintained data processing EC2/NiFi instances and wrote shell and Python scripts as necessary for data flow processing, maintenance, and optimization
 - Developed cross-domain data pipeline in less than a week to support mission essential operations
-- Part of the Data Team for the multi-domain Global Analytics Platform
+- Member of the Data Team for the Special Operations Command Global Analytics Platform
 
 `Jan 2019 - Dec 2020`
 __Data Scientist, Quadrint Inc.__, Springfield, VA
