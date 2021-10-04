@@ -45,7 +45,7 @@ Amazon Web Services (AWS) Certified Solutions Architect - Associate, AWS
 __Senior Data Engineering Consultant, LMI Inc.__, Arlington, VA
 
 - Built and maintained Apache NiFi data flows that processed real-time, streaming, imagery and sensor data from AWS S3 data sources
-- Deployed NiFi and anti-virus scanning applications to AWS cloud in containerized environments via docker/Kubernetes/Rancher
+- Deployed NiFi and anti-virus scanning applications to AWS cloud in containerized environments via Docker/Kubernetes/Rancher
 - Maintained data processing EC2/NiFi instances and wrote shell and Python scripts as necessary for data flow processing, maintenance, and optimization
 - Developed cross-domain data pipeline in less than a week to support mission essential operations
 - Member of the Data Team for the Special Operations Command Global Analytics Platform
