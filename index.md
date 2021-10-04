@@ -28,8 +28,7 @@ __M.S. Computer Science (projected) , Georgia Institute of Technology__
 __B.S. Mathematics, George Mason University__
 
 - Awarded the National Science Foundation (NSF) Computational Science Training for Undergraduates in the Mathematical Sciences (CSUMS) Research Grant
-- Research grant topic: Effects of Non-Independent Behavior on a Macroeconomic Model
-- Presented findings at the Joint Mathematics Meetings in Boston, January 2012; <a href="http://jointmathematicsmeetings.org/amsmtgs/2138_abstracts/1077-91-2426.pdf">http://jointmathematicsmeetings.org/amsmtgs/2138_abstracts/1077-91-2426.pdf</a>
+- Research grant topic: Effects of Non-Independent Behavior on a Macroeconomic Model; <a href="http://jointmathematicsmeetings.org/amsmtgs/2138_abstracts/1077-91-2426.pdf">http://jointmathematicsmeetings.org/amsmtgs/2138_abstracts/1077-91-2426.pdf</a>
 
 
 
