@@ -13,7 +13,7 @@ Experienced Data Engineer with a proven history of building and maintaining perf
 
 ## Interested in
 
-Enabling data scientists and analysts by building performant data pipelines.
+Enabling developers, data scientists, and analysts by building performant data pipelines.
 
 
 
