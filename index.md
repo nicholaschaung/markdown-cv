@@ -13,7 +13,7 @@ Experienced Data Engineer with a proven history of building and maintaining perf
 
 ## Interested in
 
-Enabling data scientists and analysts by building performant data pipelines.
+Enabling developers, data scientists, and analysts by building performant data pipelines.
 
 
 
@@ -28,8 +28,7 @@ __M.S. Computer Science (projected) , Georgia Institute of Technology__
 __B.S. Mathematics, George Mason University__
 
 - Awarded the National Science Foundation (NSF) Computational Science Training for Undergraduates in the Mathematical Sciences (CSUMS) Research Grant
-- Research grant topic: Effects of Non-Independent Behavior on a Macroeconomic Model
-- Presented findings at the Joint Mathematics Meetings in Boston, January 2012; <a href="http://jointmathematicsmeetings.org/amsmtgs/2138_abstracts/1077-91-2426.pdf">http://jointmathematicsmeetings.org/amsmtgs/2138_abstracts/1077-91-2426.pdf</a>
+- Research grant topic: Effects of Non-Independent Behavior on a Macroeconomic Model; <a href="http://jointmathematicsmeetings.org/amsmtgs/2138_abstracts/1077-91-2426.pdf">http://jointmathematicsmeetings.org/amsmtgs/2138_abstracts/1077-91-2426.pdf</a>
 
 
 
@@ -46,10 +45,10 @@ Amazon Web Services (AWS) Certified Solutions Architect - Associate, AWS
 __Senior Data Engineering Consultant, LMI Inc.__, Arlington, VA
 
 - Built and maintained Apache NiFi data flows that processed real-time, streaming, imagery and sensor data from AWS S3 data sources
+- Deployed NiFi and anti-virus scanning applications to AWS cloud in containerized environments via Docker/Kubernetes/Rancher
 - Maintained data processing EC2/NiFi instances and wrote shell and Python scripts as necessary for data flow processing, maintenance, and optimization
-- Saved the enterprise ~$500/month by optimizing a NiFi/Elasticsearch data flow
-- Deployed NiFi docker application to C2S (government cloud)
-- Part of the Data Team for the multi-domain Global Analytics Platform
+- Developed cross-domain data pipeline in less than a week to support mission essential operations
+- Member of the Data Team for the Special Operations Command Global Analytics Platform
 
 `Jan 2019 - Dec 2020`
 __Data Scientist, Quadrint Inc.__, Springfield, VA
@@ -61,13 +60,13 @@ __Data Scientist, Quadrint Inc.__, Springfield, VA
 - Scaled and maintained organization’s cloud assets (AWS EC2 and RDS) and workflows (bash scripts and AWS Lambda functions) as necessary to support fluctuating demand from various data processing pipelines
 
 `Oct 2017 - Jan 2019`
-__Data Analyst Consultant, Custom Analysis LLC, Springfield, VA__
+__Data Analyst Consultant, Custom Analysis LLC,__ Springfield, VA
 - Co-developed first Tableau demographics dashboard for a federal intelligence agency department
 - Ensured agency promotions complied with EEOC guidelines by conducting adverse impact statistical analysis in R
 - Saved over 200 man-hours per year by automating monthly cleaning of agency demographics data using Python
 
 `Sep 2012 - Sep 2017`
-__Nuclear Submarine Officer, USS Asheville (SSN 758), Pearl Harbor, HI__
+__Nuclear Submarine Officer, USS Asheville (SSN 758),__ Pearl Harbor, HI
 
 Senior Engineering Supervisor
 - Selected from among the most experienced division officers to plan and coordinate efforts of over 50 personnel to complete major project milestones; e.g., integrated high-pressure steam testing of overhauled mechanical systems, reactor instrumentation factory acceptance testing, and control rod physics testing
@@ -87,17 +86,17 @@ Reactor Control Officer
 
 ## Skills
 
-Python: numpy, pandas, various SQL connectors, requests, PIL
+Cloud (AWS): EC2, S3, RDS, Aurora, Diode, Lambda, VPC architectures
 
-Cloud (AWS): EC2, RDS, Aurora, S3, Diode, Lambda, VPC architectures
+Python: numpy, pandas, various SQL connectors, requests, PIL
 
 Databases: PostgreSQL, Aurora
 
-Linux: git, bash, anaconda, docker
+Comfortable with Linux shell scripting, scheduling, and services
 
-Familiar with Agile development
+Familiar with Agile and SAFe development practices
 
-Others: Jupyter Notebooks, R, Apache NiFi, Tableau
+Others: git, docker, kubectl, Jupyter Notebooks, R, Apache NiFi, Tableau
 
 
 
