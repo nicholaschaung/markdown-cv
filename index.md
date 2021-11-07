@@ -11,11 +11,6 @@ Experienced Data Engineer with a proven history of building and maintaining perf
 </div>
 
 
-## Interested in
-
-Enabling developers, data scientists, and analysts by building performant data pipelines.
-
-
 
 ## Education
 
@@ -44,6 +39,7 @@ Amazon Web Services (AWS) Certified Solutions Architect - Associate, AWS
 `Dec 2020 - present`
 __Senior Data Engineering Consultant, LMI Inc.__, Arlington, VA
 
+- Deployed containerized multi anti-virus scanner application to the enterprise Kubernetes cluster, utilizing Gitlab CI/CD runners and Rancher
 - Built and maintained Apache NiFi data flows that processed real-time, streaming, imagery and sensor data from AWS S3 data sources
 - Deployed NiFi and anti-virus scanning applications to AWS cloud in containerized environments via Docker/Kubernetes/Rancher
 - Maintained data processing EC2/NiFi instances and wrote shell and Python scripts as necessary for data flow processing, maintenance, and optimization
@@ -58,10 +54,11 @@ __Data Scientist, Quadrint Inc.__, Springfield, VA
 - Developed Python scripts to transform unstructured data to structured data in PostgreSQL, from mission-essential and mission-support databases
 - As a database administrator, facilitated performant analytics by ensuring organization’s data assets (PostgreSQL) were properly indexed and integrated into automated processing workflows
 - Scaled and maintained organization’s cloud assets (AWS EC2 and RDS) and workflows (bash scripts and AWS Lambda functions) as necessary to support fluctuating demand from various data processing pipelines
+- Provided on-site support to the Corporate Analytics and Program Evaluation (CAPE) organization at the National Geospatial-Intelligence Agency (NGA)
 
 `Oct 2017 - Jan 2019`
 __Data Analyst Consultant, Custom Analysis LLC,__ Springfield, VA
-- Co-developed first Tableau demographics dashboard for a federal intelligence agency department
+- Co-developed first Tableau demographics dashboard for the NGA Office of Diversity and Equal Opportunity Employment (ODE)
 - Ensured agency promotions complied with EEOC guidelines by conducting adverse impact statistical analysis in R
 - Saved over 200 man-hours per year by automating monthly cleaning of agency demographics data using Python
 
