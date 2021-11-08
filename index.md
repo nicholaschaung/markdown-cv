@@ -81,7 +81,7 @@ Reactor Control Officer
 
 
 
-## Skills
+## Summary of skills
 
 Cloud (AWS): EC2, S3, RDS, Aurora, Diode, Lambda, VPC architectures
 
@@ -89,11 +89,13 @@ Python: numpy, pandas, various SQL connectors, requests, PIL
 
 Databases: PostgreSQL, Aurora
 
-Comfortable with Linux shell scripting, scheduling, and services
+Containerization and CI/CD: Docker, Kubernetes, Gitlab runners
 
-Familiar with Agile and SAFe development practices
+Linux: shell scripting, scheduling, and services
 
-Others: git, docker, kubectl, Jupyter Notebooks, R, Apache NiFi, Tableau
+Organizational: Agile and SAFe
+
+Others: git, Jupyter Notebooks, R, Apache NiFi, Tableau
 
 
 
