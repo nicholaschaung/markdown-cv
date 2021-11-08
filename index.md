@@ -39,17 +39,16 @@ Amazon Web Services (AWS) Certified Solutions Architect - Associate, AWS
 `Dec 2020 - present`
 __Senior Data Engineering Consultant, LMI Inc.__, Arlington, VA
 
-- Deployed containerized multi anti-virus scanner application to the enterprise Kubernetes cluster, utilizing Gitlab CI/CD runners and Rancher
+- Deployed containerized application (multi anti-virus scanner and NiFi) to the enterprise Kubernetes cluster, utilizing Gitlab CI/CD runners and Rancher
 - Built and maintained Apache NiFi data flows that processed real-time, streaming, imagery and sensor data from AWS S3 data sources
-- Deployed NiFi and anti-virus scanning applications to AWS cloud in containerized environments via Docker/Kubernetes/Rancher
 - Maintained data processing EC2/NiFi instances and wrote shell and Python scripts as necessary for data flow processing, maintenance, and optimization
 - Developed cross-domain data pipeline in less than a week to support mission essential operations
-- Member of the Data Team for the Special Operations Command Global Analytics Platform
+- Served as a member of the Data Team for the Special Operations Command Global Analytics Platform
 
 `Jan 2019 - Dec 2020`
 __Data Scientist, Quadrint Inc.__, Springfield, VA
 
-- During COVID-19 remote work period, sustained mission continuity by developing and deploying a new unclassified data science environment; deployed and maintained Jupyter Notebooks server on AWS EC2 with databases on Aurora
+- During the COVID-19 remote work period, sustained mission continuity by developing and deploying a new unclassified data science environment; Jupyter Notebooks server on AWS EC2 with databases on Aurora
 - Advised clients on optimal cloud architectures for data science environments
 - Developed Python scripts to transform unstructured data to structured data in PostgreSQL, from mission-essential and mission-support databases
 - As a database administrator, facilitated performant analytics by ensuring organization’s data assets (PostgreSQL) were properly indexed and integrated into automated processing workflows
