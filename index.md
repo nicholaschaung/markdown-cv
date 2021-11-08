@@ -64,7 +64,7 @@ __Data Analyst Consultant, Custom Analysis LLC,__ Springfield, VA
 .
 
 `Sep 2012 - Sep 2017`
-__Nuclear Submarine Officer,__ Pearl Harbor, HI
+__Nuclear Submarine Officer, U.S. Navy,__ Pearl Harbor, HI
 
 - Served multiple supervisory engineering roles onboard the USS Asheville (SSN 758): Senior Engineering Supervisor, Communications Officer, Engineering Duty Officer, Reactor Control Officer
 - Selected from among the most experienced division officers to plan and coordinate efforts of over 50 personnel to complete major project milestones; e.g., integrated high-pressure steam testing of overhauled mechanical systems, reactor instrumentation factory acceptance testing, and control rod physics testing
