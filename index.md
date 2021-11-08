@@ -61,6 +61,8 @@ __Data Analyst Consultant, Custom Analysis LLC,__ Springfield, VA
 - Ensured agency promotions complied with EEOC guidelines by conducting adverse impact statistical analysis in R
 - Saved over 200 man-hours per year by automating monthly cleaning of agency demographics data using Python
 
+.
+
 `Sep 2012 - Sep 2017`
 __Nuclear Submarine Officer,__ Pearl Harbor, HI
 
