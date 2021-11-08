@@ -6,7 +6,7 @@ title: Nicholas Chaung's CV
 Experienced Data Engineer with a proven history of building and maintaining performant data flows for a variety of cross-domain analytics platforms. Skilled in providing clear insights through concise data visualizations for a variety of management and senior executive clients.
 
 <div id="webaddress">
-<a href="nicksclearance@fastmail.com">nicksclearance@fastmail.com</a>
+<a href="tech@chaung.net">tech@chaung.net</a>  
 | <a href="https://www.linkedin.com/in/nicholaschaung/">https://www.linkedin.com/in/nicholaschaung/</a>
 </div>
 
