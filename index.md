@@ -63,21 +63,15 @@ __Data Analyst Consultant, Custom Analysis LLC,__ Springfield, VA
 - Saved over 200 man-hours per year by automating monthly cleaning of agency demographics data using Python
 
 `Sep 2012 - Sep 2017`
-__Nuclear Submarine Officer, USS Asheville (SSN 758),__ Pearl Harbor, HI
+__Nuclear Submarine Officer,__ Pearl Harbor, HI
 
-Senior Engineering Supervisor
+- Served multiple supervisory engineering roles onboard the USS Asheville (SSN 758): Senior Engineering Supervisor, Communications Officer, Engineering Duty Officer, Reactor Control Officer
 - Selected from among the most experienced division officers to plan and coordinate efforts of over 50 personnel to complete major project milestones; e.g., integrated high-pressure steam testing of overhauled mechanical systems, reactor instrumentation factory acceptance testing, and control rod physics testing
-- Acted as the focal point for technical communication with regulatory agencies and with design engineers
-
-Engineering Duty Officer/Engineering Officer of the Watch
-- Awarded the Navy and Marine Corps Achievement Medal in recognition of exemplary performance; specifically for leadership exhibited during a radiological casualty, worst ever of its kind at Pearl Harbor Naval Shipyard, and sustained expert coordination of reactor plant evolutions
 - Supervised teams of over 20 people in the safe operation of the reactor plant, proper operation of radiation monitoring systems, and execution of first-time quality reactor and steam plant maintenance
-- Volunteered to support the USS Columbus on its deployment to USSOUTHCOM from Apr. 2015 -- Aug. 2015; included the first ever visit of a US nuclear submarine to Guantanamo Bay, Cuba
-
-Reactor Control Officer
 - Awarded Junior Officer of the Year 2016, ranked 1 of 12 peers, in recognition of exceptional leadership of Reactor Control division and Engineering department personnel, fastidious management of the maintenance quality control program, and demonstrated resilience during extended periods of short-staffing during overhaul
 - Supervised the complete overhaul of the reactor instrumentation complex; part of an entire ship overhaul with a project cost of over $500 million
-- The successful upgrade of the reactor instrumentation complex directly contributed to Asheville being awarded the Submarine Squadron Seven Engineering Department of the Year 2016; 1 of 11 Engineering Departments
+- Served as a member of the Asheville Engineering Department, which was awarded Submarine Squadron Seven Engineering Department of the Year 2016; 1 of 11 Engineering Departments
+- Awarded the Navy and Marine Corps Achievement Medal three times in recognition of operational and engineering contributions: expert leadership during a radiological casualty at Pearl Harbor Naval Shipyard, volunteering to support the USS Columbus (SSN 762) on a SOUTHCOM deployment as Engineering Officer of the Watch and Contact Manager, and meritorious performance during his tour of duty aboard the USS Asheville
 
 
 
