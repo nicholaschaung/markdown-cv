@@ -3,7 +3,7 @@ layout: cv
 title: Nicholas Chaung's CV
 ---
 # Nicholas Chaung
-Experienced Data Engineer with a proven history of building and maintaining performant data flows for a variety of cross-domain analytics platforms. Skilled in providing clear insights through concise data visualizations for a variety of management and senior executive clients.
+Experienced Data Engineer with a proven history of building and maintaining performant data flows for a variety of analytics platforms. Skilled in providing clear insights through concise data visualizations for a variety of management and senior executive clients.
 
 <div id="webaddress">
 <a href="tech@chaung.net">tech@chaung.net</a>  
@@ -14,16 +14,13 @@ Experienced Data Engineer with a proven history of building and maintaining perf
 
 ## Education
 
-`2019 - 2023`
+`2024 (projected)`
 __M.S. Computer Science (projected) , Georgia Institute of Technology__
 
 - Courses completed: Knowledge-Based Artificial Intelligence (AI), Applied Cryptography, Robotics: AI Techniques
 
 `2012`
 __B.S. Mathematics, George Mason University__
-
-- Awarded the National Science Foundation (NSF) Computational Science Training for Undergraduates in the Mathematical Sciences (CSUMS) Research Grant
-- Research grant topic: Effects of Non-Independent Behavior on a Macroeconomic Model; <a href="http://jointmathematicsmeetings.org/amsmtgs/2138_abstracts/1077-91-2426.pdf">http://jointmathematicsmeetings.org/amsmtgs/2138_abstracts/1077-91-2426.pdf</a>
 
 
 
@@ -36,7 +33,12 @@ Amazon Web Services (AWS) Certified Solutions Architect - Associate, AWS
 
 ## Work experience
 
-`Dec 2020 - present`
+`Mar 2022 - present`
+__Senior Data Engineer, Summit2Sea Consulting LLC__, Honolulu, HI
+
+- Enabling INDOPACOM organizations to make data-driven decisions through building data pipelines in Databricks and visualizations in Qlik
+
+`Dec 2020 - Mar 2022`
 __Senior Data Engineering Consultant, LMI Inc.__, Arlington, VA
 
 - Deployed containerized applications (multi anti-virus scanner and NiFi) to the enterprise Kubernetes cluster, utilizing Gitlab CI/CD runners and Rancher
