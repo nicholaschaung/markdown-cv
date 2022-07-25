@@ -14,25 +14,6 @@ Adaptable Data Engineer with experience in building and maintaining performant d
 
 
 
-## Education
-
-`2024 (projected)`
-__M.S. Computer Science (projected) , Georgia Institute of Technology__
-
-- Courses completed: Knowledge-Based AI, Applied Cryptography, Robotics: AI Techniques
-
-`2012`
-__B.S. Mathematics, George Mason University__
-
-
-
-## Certifications
-
-`May 2020`
-Amazon Web Services (AWS) Certified Solutions Architect - Associate, AWS
-
-
-
 ## Work experience
 
 `Mar 2022 - present`
@@ -81,6 +62,26 @@ __Nuclear Submarine Officer, U.S. Navy,__ Pearl Harbor, HI
 - Awarded the Navy and Marine Corps Achievement Medal three times in recognition of operational and engineering contributions: expert leadership during a radiological casualty at Pearl Harbor Naval Shipyard, volunteering to support the USS Columbus (SSN 762) on a SOUTHCOM deployment as Engineering Officer of the Watch and Contact Manager, and meritorious performance during tour of duty aboard the USS Asheville
 
 
+
+## Certifications
+
+`May 2020`
+Amazon Web Services (AWS) Certified Solutions Architect - Associate, AWS
+
+
+
+## Education
+
+`2024 (projected)`
+__M.S. Computer Science (projected) , Georgia Institute of Technology__
+
+- Courses completed: Knowledge-Based AI, Applied Cryptography, Robotics: AI Techniques
+
+`2012`
+__B.S. Mathematics, George Mason University__
+
+
+
 <!--- 
 ## Summary of skills
 
@@ -103,5 +104,3 @@ Others: git, Jupyter Notebooks, R, Apache NiFi, Tableau
 <!-- ### Footer
 
 Last updated: April 2021 -->
-
-
