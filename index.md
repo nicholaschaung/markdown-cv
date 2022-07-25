@@ -3,7 +3,7 @@ layout: cv
 title: Nicholas Chaung's CV
 ---
 # Nicholas Chaung
-Adaptable Data Engineer with experience in building and maintaining performant data flows for a variety of analytics platforms.
+Versatile Data Engineer with experience in building and maintaining performant data flows for a variety of analytics platforms.
 
 <!--- Skilled in providing clear insights through concise data visualizations for a variety of management and senior executive clients. -->
 
@@ -60,6 +60,11 @@ __Nuclear Submarine Officer, U.S. Navy,__ Pearl Harbor, HI
 - Awarded Junior Officer of the Year 2016, ranked 1 of 12 peers, in recognition of exceptional leadership of Reactor Control division and Engineering department personnel, fastidious management of the maintenance quality control program, and demonstrated resilience during extended periods of short-staffing during overhaul
 - Supervised the complete overhaul of the reactor instrumentation complex; part of an entire ship overhaul with a project cost of over $500 million
 - Awarded the Navy and Marine Corps Achievement Medal three times in recognition of operational and engineering contributions: expert leadership during a radiological casualty at Pearl Harbor Naval Shipyard, volunteering to support the USS Columbus (SSN 762) on a SOUTHCOM deployment as Engineering Officer of the Watch and Contact Manager, and meritorious performance during tour of duty aboard the USS Asheville
+
+<!--- 
+- Contributed to the Asheville Engineering Department winning Submarine Squadron Seven Engineering Department of the Year 2016; 1 of 11 Engineering Departments
+- Supervised teams of over 20 people in the safe operation of the reactor plant, proper operation of radiation monitoring systems, and execution of first-time quality reactor and steam plant maintenance
+-->
 
 
 
