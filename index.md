@@ -37,7 +37,7 @@ Amazon Web Services (AWS) Certified Solutions Architect - Associate, AWS
 __Senior Data Engineer, Summit2Sea Consulting LLC__, Honolulu, HI
 
 - Enabling INDOPACOM organizations to make data-driven decisions through building data pipelines in Databricks and visualizations in Qlik
-- Tools/skills used: PySpark, SQL, Databricks, Qlik
+- Tools/skills used: Databricks, Qlik, Spark, SQL, Python (PySpark, pandas)
 
 `Dec 2020 - Mar 2022`
 __Senior Data Engineering Consultant, LMI Inc.__, Arlington, VA
@@ -51,18 +51,20 @@ __Senior Data Engineering Consultant, LMI Inc.__, Arlington, VA
 `Jan 2019 - Dec 2020`
 __Data Scientist, Quadrint Inc.__, Springfield, VA
 
-- During the COVID-19 remote work period, sustained mission continuity by developing and deploying a new unclassified data science environment; Jupyter Notebooks server on AWS EC2 with databases on Aurora
-- Advised clients on optimal cloud architectures for data science environments
-- Developed Python scripts to transform unstructured data to structured data in PostgreSQL, from mission-essential and mission-support databases
-- As a database administrator, facilitated performant analytics by ensuring organization’s data assets (PostgreSQL) were properly indexed and integrated into automated processing workflows
+- During the COVID-19 remote work period, sustained mission continuity by developing and deploying a new unclassified data science environment; Jupyter Notebooks server on AWS EC2 with databases on RDS (Aurora)
+- Enabled executive-level analytics by building data pipelines, using Python and PostgreSQL
+- As a database administrator, facilitated performant analytics by ensuring organization’s data assets were properly indexed and integrated into automated processing workflows
 - Scaled and maintained organization’s cloud assets (AWS EC2 and RDS) and workflows (bash scripts and AWS Lambda functions) as necessary to support fluctuating demand from various data processing pipelines
-- Provided on-site support to the Corporate Analytics and Program Evaluation (CAPE) organization at the National Geospatial-Intelligence Agency (NGA)
+- Provided on-site support to the Corporate Analytics and Program Evaluation organization at the National Geospatial-Intelligence Agency (NGA)
+- Tools/skills used: Tableau, AWS services (EC2, RDS, Lambda, Diode), SQL (PostgreSQL), Python (Pandas, numpy), Bash scripting
+[comment]: <> (- Advised clients on optimal cloud architectures for data science environments)
 
 `Oct 2017 - Jan 2019`
 __Data Analyst Consultant, Custom Analysis LLC,__ Springfield, VA
-- Co-developed first Tableau demographics dashboard for the NGA Office of Diversity and Equal Opportunity Employment (ODE)
+- Co-developed first Tableau demographics dashboard for the NGA Office of Diversity and Equal Opportunity Employment
 - Ensured agency promotions complied with EEOC guidelines by conducting adverse impact statistical analysis in R
-- Saved over 200 man-hours per year by automating monthly cleaning of agency demographics data using Python
+- Saved over 200 man-hours per year by writing Python scripts that automated monthly cleaning of agency demographics data
+- Tools/skills used: Tableau, Python, R
 
 <div style="page-break-after: always;"></div>
 
