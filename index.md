@@ -3,11 +3,13 @@ layout: cv
 title: Nicholas Chaung's CV
 ---
 # Nicholas Chaung
-Experienced Data Engineer with a proven history of building and maintaining performant data flows for a variety of analytics platforms. Skilled in providing clear insights through concise data visualizations for a variety of management and senior executive clients.
+Experienced Data Engineer with a proven history of building and maintaining performant data flows for a variety of analytics platforms.
+
+<!--- Skilled in providing clear insights through concise data visualizations for a variety of management and senior executive clients. -->
 
 <div id="webaddress">
 <a href="tech@chaung.net">tech@chaung.net</a>  
-| <a href="https://www.linkedin.com/in/nicholaschaung/">https://www.linkedin.com/in/nicholaschaung/</a>
+| <a href="https://www.linkedin.com/in/nicholaschaung/">https://www.linkedin.com/in/nicholaschaung/</a> | Honolulu, HI
 </div>
 
 
@@ -17,7 +19,7 @@ Experienced Data Engineer with a proven history of building and maintaining perf
 `2024 (projected)`
 __M.S. Computer Science (projected) , Georgia Institute of Technology__
 
-- Courses completed: Knowledge-Based Artificial Intelligence (AI), Applied Cryptography, Robotics: AI Techniques
+- Courses completed: Knowledge-Based AI, Applied Cryptography, Robotics: AI Techniques
 
 `2012`
 __B.S. Mathematics, George Mason University__
@@ -36,28 +38,31 @@ Amazon Web Services (AWS) Certified Solutions Architect - Associate, AWS
 `Mar 2022 - present`
 __Senior Data Engineer, Summit2Sea Consulting LLC__, Honolulu, HI
 
-- Enabling INDOPACOM organizations to make data-driven decisions through building data pipelines in Databricks and visualizations in Qlik
+- Empowering organizations within INDOPACOM to make data-driven decisions through building data pipelines in Databricks and visualizations in Qlik
 - Tools/skills used: Databricks, Qlik, Spark, SQL, Python (PySpark, pandas)
 
 `Dec 2020 - Mar 2022`
 __Senior Data Engineering Consultant, LMI Inc.__, Arlington, VA
 
-- Supported enterprise transition to containerized, CI/CD environment by migrating security and data movement applications to Kubernetes cluster and Gitlab CI/CD pipelines
+- Supported enterprise transition to a containerized, CI/CD environment by migrating security and data movement applications to the enterprise's Kubernetes cluster and Gitlab CI/CD pipelines
 - Enabled mission essential operations by contributing to the development of a cross-domain data pipeline in four days
-- Built and maintained NiFi data flows that processed real-time, streaming, imagery and sensor data from AWS S3 data sources
+- Built and maintained NiFi data flows that processed real-time, streaming, imagery and sensor data
 - Served as a member of the Data Team for the Special Operations Command Global Analytics Platform
-- Tools/skills used: NiFi, Docker, Kubernetes, Gitlab CI/CD, AWS services (S3, EC2, Lambda), Python, Bash scripting
+- Tools/skills used: NiFi, Docker, Kubernetes, Gitlab CI/CD, AWS services (S3, EC2, Lambda), git, Python, Bash scripting
 
 `Jan 2019 - Dec 2020`
 __Data Scientist, Quadrint Inc.__, Springfield, VA
 
-- During the COVID-19 remote work period, sustained mission continuity by developing and deploying a new unclassified data science environment; Jupyter Notebooks server on AWS EC2 with databases on RDS (Aurora)
+- During the COVID-19 remote work period, sustained mission continuity by developing and deploying a new unclassified data science environment; Jupyter Notebooks (AWS EC2) connected to PostgreSQL (RDS)
 - Enabled executive-level analytics by building data pipelines, using Python and PostgreSQL
-- As a database administrator, facilitated performant analytics by ensuring organization’s data assets were properly indexed and integrated into automated processing workflows
-- Scaled and maintained organization’s cloud assets (AWS EC2 and RDS) and workflows (bash scripts and AWS Lambda functions) as necessary to support fluctuating demand from various data processing pipelines
+- Scaled and maintained organization’s cloud assets (AWS EC2 and RDS) and workflows (bash scripts and AWS Lambda functions) as necessary
 - Provided on-site support to the Corporate Analytics and Program Evaluation organization at the National Geospatial-Intelligence Agency (NGA)
-- Tools/skills used: Tableau, AWS services (EC2, RDS, Lambda, Diode), SQL (PostgreSQL), Python (Pandas, numpy), Bash scripting
-[comment]: <> (- Advised clients on optimal cloud architectures for data science environments)
+- Tools/skills used: Tableau, AWS services (EC2, RDS, Lambda, Diode), git, SQL (PostgreSQL), Python (Pandas, numpy), Bash scripting
+
+<!--- 
+- As a database administrator, facilitated performant analytics by ensuring organization’s data assets were properly indexed and integrated into automated processing workflows
+- Advised clients on optimal cloud architectures for data science environments
+-->
 
 `Oct 2017 - Jan 2019`
 __Data Analyst Consultant, Custom Analysis LLC,__ Springfield, VA
@@ -66,7 +71,7 @@ __Data Analyst Consultant, Custom Analysis LLC,__ Springfield, VA
 - Saved over 200 man-hours per year by writing Python scripts that automated monthly cleaning of agency demographics data
 - Tools/skills used: Tableau, Python, R
 
-<div style="page-break-after: always;"></div>
+<!--- <div style="page-break-after: always;"></div> -->
 
 `Sep 2012 - Sep 2017`
 __Nuclear Submarine Officer, U.S. Navy,__ Pearl Harbor, HI
@@ -78,7 +83,7 @@ __Nuclear Submarine Officer, U.S. Navy,__ Pearl Harbor, HI
 - Awarded the Navy and Marine Corps Achievement Medal three times in recognition of operational and engineering contributions: expert leadership during a radiological casualty at Pearl Harbor Naval Shipyard, volunteering to support the USS Columbus (SSN 762) on a SOUTHCOM deployment as Engineering Officer of the Watch and Contact Manager, and meritorious performance during tour of duty aboard the USS Asheville
 
 
-
+<!--- 
 ## Summary of skills
 
 Cloud (AWS): EC2, S3, RDS, Aurora, Diode, Lambda, VPC architectures
@@ -94,7 +99,7 @@ Linux: shell scripting, scheduling, and services
 Organizational: Agile and SAFe
 
 Others: git, Jupyter Notebooks, R, Apache NiFi, Tableau
-
+-->
 
 
 <!-- ### Footer
