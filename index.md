@@ -26,17 +26,17 @@ __Senior Data Engineer, Summit2Sea Consulting LLC__, Honolulu, HI
 __Senior Data Engineering Consultant, LMI Inc.__, Arlington, VA
 
 - Migrated critical security and data movement applications to the enterprise's Kubernetes cluster which supported the enterprise's transition to a containerized, CI/CD environment
-- Contributed to the rapid development of a cross-domain data pipeline (built in four days) which enabled emergency mission essential operations
+- Contributed to the rapid development of a cross-domain data pipeline (built in 72 hours) which enabled emergency mission essential operations
 - Built and maintained NiFi data flows that processed real-time, streaming, imagery and sensor data for Joint Special Operations Command's Global Analytics Platform
-- Tools/skills used: NiFi, Docker, Kubernetes, Gitlab CI/CD, AWS services (S3, EC2, Lambda), git, Python, Bash scripting
+- Tools/skills used: NiFi, Docker, Kubernetes, Gitlab CI/CD, AWS services (S3, EC2, Lambda), Python, git, Bash
 
 `Jan 2019 - Dec 2020`
 __Data Scientist, Quadrint Inc.__, Springfield, VA
 
 - Developed and deployed a new unclassified data science environment (Jupyter Notebooks backed by PostgreSQL), during the COVID-19 remote work period, which sustained mission continuity
 - Built data pipelines (Python and PostgreSQL) which provided key business metrics for the Executive Director of the National Geospatial-Intelligence Agency (NGA)
-- Scaled and maintained the organization’s cloud assets (AWS EC2 and RDS) and workflows (bash scripts and AWS Lambda functions) as necessary
-- Tools/skills used: Tableau, AWS services (EC2, RDS, Lambda, Diode), git, SQL (PostgreSQL), Python (Pandas, numpy), Bash scripting
+- Scaled the organization’s cloud assets (AWS EC2 and RDS) and workflows (bash scripts and AWS Lambda functions) as necessary
+- Tools/skills used: Tableau, AWS services (EC2, RDS, Lambda, Diode), SQL (PostgreSQL), Python (Pandas, numpy), git, Bash
 
 <!--- 
 - As a database administrator, facilitated performant analytics by ensuring organization’s data assets were properly indexed and integrated into automated processing workflows
@@ -45,7 +45,7 @@ __Data Scientist, Quadrint Inc.__, Springfield, VA
 
 `Oct 2017 - Jan 2019`
 __Data Analyst Consultant, Custom Analysis LLC,__ Springfield, VA
-- Co-developed first Tableau demographics dashboard for the NGA Office of Diversity and Equal Opportunity Employment
+- Co-developed the first Tableau demographics dashboard for the NGA's Office of Diversity and Equal Opportunity Employment
 - Conducted adverse impact statistical analysis which ensured agency promotions complied with EEOC guidelines
 - Saved over 200 man-hours per year by writing Python scripts that automated monthly cleaning of agency demographics data
 - Tools/skills used: Tableau, Python, R
@@ -79,6 +79,8 @@ __M.S. Computer Science (projected) , Georgia Institute of Technology__
 
 `2012`
 __B.S. Mathematics, George Mason University__
+
+- Presented undergraduate research at the Joint Mathematics Meetings in Boston, January 2012; http://jointmathematicsmeetings.org/amsmtgs/2138_abstracts/1077-91-2426.pdf
 
 
 
