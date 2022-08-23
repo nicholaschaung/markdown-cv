@@ -80,7 +80,7 @@ Amazon Web Services (AWS) Certified Solutions Architect - Associate, AWS
 `2024 (projected)`
 __M.S. Computer Science (projected) , Georgia Institute of Technology__
 
-- Courses completed: Knowledge-Based AI, Applied Cryptography, Robotics: AI Techniques
+- Courses completed: Knowledge-Based AI, Applied Cryptography, Robotics: AI Techniques, Human Computer Interaction
 
 `2012`
 __B.S. Mathematics, George Mason University__
